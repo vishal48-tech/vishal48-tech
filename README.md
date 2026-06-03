@@ -1,16 +1,23 @@
-## Hi there 👋
 
-<!--
-**vishal48-tech/vishal48-tech** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+# Hi, I'm Vishal Mondal! 👋
 
-Here are some ideas to get you started:
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🚀 About Me
+Agentic AI developer. Builder of cool stuff.
+
+
+## 🛠 Skills
+Javascript, HTML, CSS, Python, PHP, Tailwind, React, numpy, pandas, scikit-learn, seaborn, plotly, tensorflow, pytorch, NLTK, hugging-face, transformers, OpenCV, langchain, langgraph, chromadb
+
+
+## Other Common Github Profile Sections
+👩‍💻 I'm currently working on UCF Crime Dataset
+
+🧠 I'm currently learning Agentic AI
+
+🤔 I'm looking for help with finding a job in agentic AI role
+
+💬 Ask me about Data Science, ML, DL, AI, AI agents
+
+⚡️ Fun fact: Suffering builds strength only when paired with self-mastery
+
