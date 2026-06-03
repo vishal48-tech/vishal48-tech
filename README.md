@@ -7,7 +7,8 @@ Agentic AI developer. Builder of cool stuff.
 
 
 ## 🛠 Skills
-Javascript, HTML, CSS, Python, PHP, Tailwind, React, numpy, pandas, scikit-learn, seaborn, plotly, tensorflow, pytorch, NLTK, hugging-face, transformers, OpenCV, langchain, langgraph, chromadb
+Javascript, HTML, CSS, Python, PHP, Tailwind, React, numpy, pandas, scikit-learn, seaborn, plotly, tensorflow, pytorch, NLTK, hugging-face, transformers, OpenCV, langchain, langgraph, chromadb,
+FastAPI, RestAPI, git, docker, streamlit
 
 
 ## Other Common Github Profile Sections
