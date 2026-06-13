@@ -12,13 +12,13 @@ FastAPI, RestAPI, git, docker, streamlit
 
 
 ## Other Common Github Profile Sections
-👩‍💻 I'm currently working on UCF Crime Dataset
+👩‍💻 I'm currently working on Fitness AI agent
 
 🧠 I'm currently learning Agentic AI
 
 🤔 I'm looking for help with finding a job in agentic AI role
 
-💬 Ask me about Data Science, ML, DL, AI, AI agents
+💬 Ask me about Data Science, ML, DL, NLP, AI agents
 
 ⚡️ Fun fact: Suffering builds strength only when paired with self-mastery
 
