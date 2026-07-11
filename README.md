@@ -1,7 +1,7 @@
 
 # Hi, I'm Vishal Mondal! 👋
 
-
+<img src="https://fontawesome.com/icons/classic/solid/circle-info" width="18" height="18" />
 ## 🚀 About Me
 AI Engineer, trying to understand production systems to build cool stuffs.
 
