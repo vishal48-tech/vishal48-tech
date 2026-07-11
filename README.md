@@ -1,17 +1,36 @@
 
 # Hi, I'm Vishal Mondal! 👋
 
-<img src="https://fontawesome.com/icons/classic/solid/circle-info" width="18" height="18" />
-## 🚀 About Me
-AI Engineer, trying to understand production systems to build cool stuffs.
+## About Me
+AI Engineer, trying to understand production systems. Using AI based IDEs to increase development, learning speed with proper observations.
 
 
-## 🛠 Skills
-
+## Skills
 - Creating responsive UI with loading state, empty state, error state, success state, conditional rendering, routing.
 - Creating robust backend with error handling, authentication, authorization, data processing, data storage, logging.
 - Creating AI agents for future softwares with evaluation and observability.
 
+
+## Programming
+- Python, Javascript, PHP
+
+## Website Development
+- HTML, CSS
+
+## Database
+- SQL, MySQL
+
+## Frontend tools
+- React, Tailwind CSS, Hero icon, Headless UI, Frostbite, Material UI, Streamlit
+
+## Backend tools
+- FastAPI, Flask, Uvicorn, Supabase
+
+## AI agent tools
+- Langchain, Langgraph, Langsmith, Chromadb, GroqAPI
+
+## Data Science tools
+- Numpy, Pandas, Matplotlib, Seaborn, Plotly, Scikit-learn, Pytorch, Tensorflow, Hugging-face, NLTK, Spacy
 
 ## Other Common Github Profile Sections
 👩‍💻 I'm currently working on Nothing
