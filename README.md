@@ -6,9 +6,13 @@ AI Engineer, trying to understand production systems. Using AI based IDEs to inc
 
 
 ## Skills
-- Creating responsive UI with loading state, empty state, error state, success state, conditional rendering, routing.
-- Creating robust backend with error handling, authentication, authorization, data processing, data storage, logging.
-- Creating AI agents for future softwares with evaluation and observability.
+- Developing responsive UI with loading state, empty state, error state, success state, conditional rendering, routing.
+- Developing robust backend with error handling, authentication, authorization, data processing, data storage, logging.
+- Selecting model, metric according to business needs and dataset.
+- Data processing for model training/testing.
+- Transfer learning, fine tuning, optimizing models.
+- Developing static/interactive dashboards.
+- Developing AI agents for future softwares with evaluation and observability.
 
 
 ## Programming
