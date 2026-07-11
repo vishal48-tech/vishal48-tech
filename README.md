@@ -13,6 +13,7 @@ AI Engineer, trying to understand production systems. Using AI based IDEs to inc
 - Transfer learning, fine tuning, optimizing models.
 - Developing static/interactive dashboards.
 - Developing AI agents for future softwares with evaluation and observability.
+- Using agentic engineering for fast and reliable development.
 
 
 ## Programming
@@ -34,7 +35,10 @@ AI Engineer, trying to understand production systems. Using AI based IDEs to inc
 - Langchain, Langgraph, Langsmith, Chromadb, GroqAPI
 
 ## Data Science tools
-- Numpy, Pandas, Matplotlib, Seaborn, Plotly, Scikit-learn, Pytorch, Tensorflow, Hugging-face, NLTK, Spacy
+- Numpy, Pandas, Matplotlib, Seaborn, Plotly, Scikit-learn, Pytorch, Tensorflow, OpenCV, Hugging-face, NLTK, Spacy
+
+## Other skills/tools
+- Agentic engineering, Model Context Protocol, Agent skills
 
 ## Other Common Github Profile Sections
 👩‍💻 I'm currently working on Nothing
